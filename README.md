@@ -2,4 +2,4 @@
 Welcome to my GitHub page!
 
 This page showcases my journey in learning and maintaining my technical skills. 
-Here, you will find a collection of exercises and projects that reflect my growth and interests.
+On this page you will find a collection of exercises and projects that show my growth and interests.
